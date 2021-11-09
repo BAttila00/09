@@ -1,0 +1,22 @@
+header{
+    display: inline-block;
+}
+
+img.author-profile-picture{
+    padding-top: 70px;
+}
+
+div.name{
+    font-weight: bold;
+}
+
+div.publish-date{
+    font-style: italic;
+}
+
+img[src="nas.jpg"]{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
